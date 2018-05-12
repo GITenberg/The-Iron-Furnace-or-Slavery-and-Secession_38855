@@ -1,0 +1,31 @@
+_repo: The-Iron-Furnace-or-Slavery-and-Secession_38855
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Aughey, John H. (John Hill)
+    alias: Aughey, John Hill
+    birthdate: 1828
+    deathdate: 1911
+    gutenberg_agent_id: '39684'
+    url: http://www.gutenberg.org/2009/agents/39684
+description: ''
+gutenberg_issued: '2012-02-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38855'
+  lccn: '02017765'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Slaves -- United States -- Social conditions'
+- !lcsh 'Slavery -- United States'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Personal narratives'
+- !lcsh 'United States -- Politics and government -- 1861-1865'
+- !lcc 'E456'
+title: The Iron Furnace; or, Slavery and Secession
+url: http://www.gutenberg.org/ebooks/38855
